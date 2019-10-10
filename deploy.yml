@@ -32,7 +32,7 @@ spec:
       serviceAccountName: cjoc
       containers:
       - name: beeops-cb-days
-        image: gcr.io/core-workshop/helloworld-nodejs:beeops-cb-days-11
+        image: gcr.io/core-workshop/helloworld-nodejs:beeops-cb-days-12
         resources:
           requests:
             memory: "100Mi"
